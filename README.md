@@ -2,32 +2,32 @@
 ## 📋 Daftar & Ketentuan 
 
 ### Konfigurasi Wifi Router
-1. **DNS** = Sesuai dengan DNS yang diberikan ISP[cite: 6].
-2. **NTP** = Yes[cite: 6].
-3. **Web Proxy dengan Cache Administrator** = `nama_peserta@sekolah.sch.id`[cite: 6] *(sesuaikan dengan nama dan sekolah kamu)*.
+1. **DNS** = Sesuai dengan DNS yang diberikan ISP.
+2. **NTP** = Yes.
+3. **Web Proxy dengan Cache Administrator** = `nama_peserta@sekolah.sch.id`*(sesuaikan dengan nama dan sekolah kamu)*.
 
 ### Jaringan Internet
-4. **IP Address** = Sesuai dengan Network yang diberikan ISP[cite: 6].
-5. **Gateway** = Sesuai dengan IP yang diberikan oleh ISP[cite: 6].
+4. **IP Address** = Sesuai dengan Network yang diberikan ISP.
+5. **Gateway** = Sesuai dengan IP yang diberikan oleh ISP.
 
 ### Jaringan Lokal
-6. **IP Address** = 192.168.100.1/25[cite: 6].
-7. **DHCP Pool** = Sebanyak 99 Client[cite: 6].
-8. Buat firewall agar IP `192.168.100.2 - 192.168.100.50` tidak dapat ping ke router[cite: 6].
-9. Buat firewall agar IP `192.168.100.51 - 192.168.100.100` tidak dapat ping ke client wireless[cite: 6].
-10. Buat rule agar setiap akses ke router tercatat di logging dan tersimpan di disk[cite: 6].
+6. **IP Address** = 192.168.100.1/25.
+7. **DHCP Pool** = Sebanyak 99 Client.
+8. Buat firewall agar IP `192.168.100.2 - 192.168.100.50` tidak dapat ping ke router.
+9. Buat firewall agar IP `192.168.100.51 - 192.168.100.100` tidak dapat ping ke client wireless.
+10. Buat rule agar setiap akses ke router tercatat di logging dan tersimpan di disk.
 
 ### Jaringan Wireless
-11. **IP Address** = 192.168.200.1/24[cite: 6].
-12. **SSID** = `nama_peserta@ProxyUKK`[cite: 6] *(sesuaikan dengan nama kamu)*.
-13. **DHCP Pool** = Sebanyak 99 client[cite: 6].
-14. Membuat 20 account hotspot secara random di RADIUS[cite: 6].
-15. Account hotspot hanya bisa menggunakan internet pada pukul 07.00 - 16.00[cite: 6].
+11. **IP Address** = 192.168.200.1/24.
+12. **SSID** = `nama_peserta@ProxyUKK`*(sesuaikan dengan nama kamu)*.
+13. **DHCP Pool** = Sebanyak 99 client.
+14. Membuat 20 account hotspot secara random di RADIUS.
+15. Account hotspot hanya bisa menggunakan internet pada pukul 07.00 - 16.00.
 
 ### Blocking (Firewall)
-Buat firewall yang memblokir[cite: 6]:
-16. **Blocking Site** = `https://www.linux.org`[cite: 6].
-17. **Blocking File** = `.mp3, .mkv`[cite: 6].
+Buat firewall yang memblokir:
+16. **Blocking Site** = `https://www.linux.org`.
+17. **Blocking File** = `.mp3, .mkv`.
 
 ---
 
