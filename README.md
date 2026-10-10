@@ -6,7 +6,7 @@
 * **Pengerjaan Soal No 4**: IP Address disesuaikan dengan Network yang diberikan ISP.
 * **Pengerjaan Soal No 5**: Gateway disesuaikan dengan IP yang diberikan oleh ISP.
 * **Langkah 1**: Buka Winbox, arahkan ke menu **IP > DHCP Client**, lalu klik tombol tambah (`+`), pilih `Interface: ether1`, dan klik Apply/OK.
-* C:\Users\ASUS\Downloads\SEMINAR proposal (1).png
+* <img width="672" height="275" alt="SEMINAR proposal (1)" src="https://github.com/user-attachments/assets/2a1427b4-950f-42e4-a278-3de72e8563c1" />
 * **Langkah 2**: Pastikan status DHCP Client berubah menjadi **bound** dan mendapatkan IP dari ISP.
 
 ---
