@@ -73,9 +73,57 @@ Buat firewall yang memblokir[cite: 6]:
 * **Pengerjaan soal no 9 : Buat firewall agar IP 192.168.100.51-192.168.100.100 tidak dapat ping ke client wireless.**
   <img width="629" height="297" alt="SEMINAR proposal (12)" src="https://github.com/user-attachments/assets/e1eef138-8eeb-4b4a-bd03-d20957b9abba" />
 
+* **Pengerjaan Soal no 10 : Buat rule agar setiap akses ke router tercatat di logging dan tersimpan di disk.**
+<img width="781" height="419" alt="SEMINAR proposal (13)" src="https://github.com/user-attachments/assets/1830ba5e-48d1-40b8-8589-af2c87491f72" />
+
+* **Pengerjaan Soal no 12 : Ubah SSID menjadi NamaPeserta@ProxyUKK Klik Wireless lalu Double Klik pada wlan1.**
+ <img width="845" height="213" alt="SEMINAR proposal (14)" src="https://github.com/user-attachments/assets/3bf2698d-e0d3-40e4-ac48-2bc47c4bad50" />
+
+* **Pengerjaan Soal No 13 : DHCP Pool sebanyak 99 client di Wlan.**
+  <img width="632" height="807" alt="SEMINAR proposal (15)" src="https://github.com/user-attachments/assets/3ff4ee1e-434f-440b-9de9-666a772485cc" />
+
+* **Pengerjaan soal no 14 : Membuat 20 account hotspot secara random di RADIUS.**
+  <img width="822" height="651" alt="SEMINAR proposal (16)" src="https://github.com/user-attachments/assets/b18e67ea-f524-44bc-b065-001540d0d071" />
+  * Konfigurasi Pada Sisi Server RADIUS pada webconfig denagan cara masuk ke ip route/userman di chrome
+    <img width="787" height="581" alt="SEMINAR proposal (17)" src="https://github.com/user-attachments/assets/10cea1a1-3dff-415c-8c19-75b016a7c23d" />
+
+* **Pengerjaan soal no 15 : Account hotspot hanya bisa menggunakan internet pada pukul 07.00 - 16.00.**
+   <img width="803" height="858" alt="SEMINAR proposal (18)" src="https://github.com/user-attachments/assets/cd9156fc-ed49-468f-ac59-a139590812cb" />
+
+* **Pengerjaan soal no 16 : Blocking Site = https://www.linux.org.**
+   <img width="838" height="698" alt="SEMINAR proposal (19)" src="https://github.com/user-attachments/assets/4d4f05a5-4990-4999-a244-7c48a911ba17" />
+
+* **Pengerjaan soal no 17 : Blocking File = .mp3, .mkv.**
+   <img width="502" height="800" alt="SEMINAR proposal (20)" src="https://github.com/user-attachments/assets/becee5dd-8ff3-44e6-b5cf-d5843dc6416e" />
+
+---
+
+## Pengujian
+* **1. Jaringan Lokal Ether 2**
+<img width="801" height="255" alt="SEMINAR proposal (21)" src="https://github.com/user-attachments/assets/8e992728-6158-40c4-8340-5366c3d1d609" />
+
+* **2.  Pengujian Bloking IP dari 192.168.100.2 – 192.168.100.50 tidak dapat ping ke Ip Router.**
+<img width="793" height="270" alt="SEMINAR proposal (22)" src="https://github.com/user-attachments/assets/22168f68-a331-4460-8dbc-aba898504c1d" />
+
+* **3. Pengujian Bloking Site dan File.**
+  * Pengujian di lakukan dengan cara mecari site www.linux.org di google dan file mp3 di google lalu pilih salah satu file mp3.
+<img width="838" height="629" alt="SEMINAR proposal (23)" src="https://github.com/user-attachments/assets/cf724859-0802-4522-b001-c39260a4efa1" />
+
+* **4. Pengujian Logging Disk.**
+<img width="473" height="255" alt="SEMINAR proposal (24)" src="https://github.com/user-attachments/assets/0caa8cd4-1423-4a87-b93f-42163a816d73" />
+
+* **5. Pengujian akun Radius.**
+<img width="427" height="529" alt="SEMINAR proposal (25)" src="https://github.com/user-attachments/assets/0afb9e23-d0a6-4296-9d65-4df2fd8fa8af" />
+
+
+
+  
+
+
 
 
  
+
     
  
 
