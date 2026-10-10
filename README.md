@@ -32,7 +32,6 @@ Buat firewall yang memblokir[cite: 6]:
 ---
 
 ## Langkah-Langkah Konfigurasi
-### 1. Jaringan Internet & DHCP Client
 * **Pengerjaan Soal No 4**: IP Address disesuaikan dengan Network yang diberikan ISP.
 * **Pengerjaan Soal No 5**: Gateway disesuaikan dengan IP yang diberikan oleh ISP.
 * **Langkah 1**: Buka Winbox, arahkan ke menu **IP > DHCP Client**, lalu klik tombol tambah (`+`), pilih `Interface: ether1`, dan klik Apply/OK.
@@ -40,9 +39,6 @@ Buat firewall yang memblokir[cite: 6]:
 * **Langkah 2**: Pastikan status DHCP Client berubah menjadi **bound** dan mendapatkan IP dari ISP.
 * <img width="672" height="166" alt="SEMINAR proposal (2)" src="https://github.com/user-attachments/assets/3bb636a7-f874-469c-a21d-b171006b2c0b" />
 
----
-
-### 2. Jaringan Lokal & Wireless (DNS & NTP)
 * **Pengerjaan Soal No 1 (DNS)**: 
   * Atur IP Dynamic Servers sesuai DNS dari ISP.
   * Beri centang pada opsi **Allow Remote Requests**.
