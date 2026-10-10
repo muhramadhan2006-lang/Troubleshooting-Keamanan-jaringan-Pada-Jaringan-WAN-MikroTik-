@@ -67,7 +67,7 @@ Buat firewall yang memblokir[cite: 6]:
 * **Pengerjaan Soal no 7 : membuat 99 client di jaringan lokal ether 2.**
   <img width="874" height="387" alt="SEMINAR proposal (10)" src="https://github.com/user-attachments/assets/14aa2e12-f102-48b9-9325-cb1337915046" />
 
-* **Pengerjaan soal no 8 : Buat firewall agar IP 192.168.100.2-192.168.100.50 tidak dapat ping ke router.**
+* **Pengerjaan soal no 8 : Buat firewall agar IP 192.168.100.2-192.168.100.50 tidak dapat ping ke router**.
   <img width="611" height="288" alt="SEMINAR proposal (11)" src="https://github.com/user-attachments/assets/31b8940e-7ab0-452c-bc9a-de1f02a4029f" />
 
 * **Pengerjaan soal no 9 : Buat firewall agar IP 192.168.100.51-192.168.100.100 tidak dapat ping ke client wireless.**
