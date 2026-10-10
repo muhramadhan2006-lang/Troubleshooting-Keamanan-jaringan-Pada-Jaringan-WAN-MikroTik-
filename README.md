@@ -1,4 +1,21 @@
 # Troubleshooting-Keamanan-jariringan-Pada-Jaringan-WAN
+## Topologi
+<img width="1230" height="687" alt="SEMINAR proposal (26)" src="https://github.com/user-attachments/assets/1d833cf8-4381-462a-9f65-8f2c125e1468" />
+
+## Alat dan Bahan
+1. Internet (Sumber internet dari ISP)
+2. 1 pcs Routerboard MikroTik
+3. 2 pcs Kabel UTP
+4. 1 pcs Smartphone
+5. 1 pcs laptop
+6. App Winbox
+
+## Setup
+1. Hubungkan kabel dari sumber Internet (ISP) ke Ether 1 pada Routerboard MikroTik.
+2. Hubungkan kabel UTP pertama dari Ether 2 MikroTik ke port LAN Laptop untuk proses konfigurasi menggunakan aplikasi WinBox.
+3. Aktifkan dan atur pemancar Wlan 1 pada MikroTik sebagai titik akses Wi-Fi (SSID).
+4. Gunakan Smartphone untuk menghubungkan diri (connect) ke sinyal Wi-Fi tersebut guna menguji kelayakan jaringan hotspot.   
+
 ## 📋 Daftar & Ketentuan 
 
 ### Konfigurasi Wifi Router
