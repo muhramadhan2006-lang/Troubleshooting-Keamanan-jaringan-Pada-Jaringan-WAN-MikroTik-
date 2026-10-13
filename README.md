@@ -78,7 +78,7 @@ Buat firewall yang memblokir:
   * Langkah 1 untuk memasukan IP jaringan lokal. Sesuai ketentuan. Pengerjaan Soal
     <img width="648" height="345" alt="SEMINAR proposal (7)" src="https://github.com/user-attachments/assets/5ffc8b1b-2c20-4860-9259-c85adfd8fd09" />
 
-    <img width="740" height="348" alt="SEMINAR proposal (8)" src="https://github.com/user-attachments/assets/ef20498c-d5a0-44f2-80ec-7a6689c5b5ef" 
+    <img width="740" height="348" alt="SEMINAR proposal (8)" src="https://github.com/user-attachments/assets/ef20498c-d5a0-44f2-80ec-7a6689c5b5ef" />
   * Langkah 2 , Buat firwall NAT untuk menghubungkan internet ke port ether 1 agar terhubung internet.
     <img width="658" height="256" alt="SEMINAR proposal (9)" src="https://github.com/user-attachments/assets/18742d4f-6dea-4baa-901c-baede4fe905f" />
 
