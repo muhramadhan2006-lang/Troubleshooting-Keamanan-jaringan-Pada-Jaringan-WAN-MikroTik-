@@ -104,9 +104,6 @@
 
 1. Masuk ke menu **System > SNTP Client**.
 2. Ubah status menjadi **Enabled**.
-
-   <img width="629" height="297" alt="SEMINAR proposal (12)" src="https://github.com/user-attachments/assets/8fe4a168-6775-43e4-9817-3b1cdb7b0326" />
-
 3. Masukkan Primary dan Secondary NTP Server (misal: `id.pool.ntp.org` dan `asia.pool.ntp.org`).
 
    <img width="633" height="400" alt="SEMINAR proposal (4)" src="https://github.com/user-attachments/assets/8386678d-88ae-45c0-a759-5e193edff8de" />
@@ -186,7 +183,8 @@ Ubah SSID menjadi `NamaPeserta@ProxyUKK`. Klik **Wireless** lalu double klik pad
 
 DHCP Pool sebanyak 99 client di Wlan.
 
-<img width="632" height="807" alt="SEMINAR proposal (15)" src="https://github.com/user-attachments/assets/3ff4ee1e-434f-440b-9de9-666a772485cc" />
+<img width="632" height="807" alt="SEMINAR proposal (27)" src="https://github.com/user-attachments/assets/41ca1634-6384-48dd-92b9-7f05d2529477" />
+
 
 ---
 
