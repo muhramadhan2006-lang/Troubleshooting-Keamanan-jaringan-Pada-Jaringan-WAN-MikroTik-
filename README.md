@@ -183,7 +183,8 @@ Ubah SSID menjadi `NamaPeserta@ProxyUKK`. Klik **Wireless** lalu double klik pad
 
 DHCP Pool sebanyak 99 client di Wlan.
 
-<img width="632" height="807" alt="SEMINAR proposal (27)" src="https://github.com/user-attachments/assets/41ca1634-6384-48dd-92b9-7f05d2529477" />
+
+<img width="632" height="807" alt="SEMINAR proposal (28)" src="https://github.com/user-attachments/assets/334edec6-d1ce-463d-9248-e7104a2101b2" />
 
 
 ---
